@@ -23,6 +23,7 @@ options(htmltools.dir.version = FALSE)
 ```{r,echo=FALSE,fig.align='left',out.width=300,out.height=450}
 knitr::include_graphics('img/Presentacion2.png')
 ```
+##### [personal website](https://barja8.github.io/)
 ]
 .pull-right[
 
