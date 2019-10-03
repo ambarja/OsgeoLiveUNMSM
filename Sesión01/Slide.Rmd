@@ -317,7 +317,7 @@ knitr::include_graphics("img/installingplugin.gif")
 knitr::include_graphics("img/MiprimerProject.png")
 ```
 
-##### _Insumos_ [clicl aquí]()
+##### _Insumos_ [clicl aquí](https://github.com/barja8/OsgeoLiveUNMSM/blob/master/Sesi%C3%B3n01/Insumos/MapaBase.tar)
 ---
 background-color:cover
 class:center
