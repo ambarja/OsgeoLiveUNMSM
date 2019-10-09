@@ -287,23 +287,105 @@ class: center, middle, inverse
 
 # Parte práctica 
 ---
-# Personalización de la Interfaz Gráfica
-.pull-left[
-Load QSS es un plugin de QGIS que permite personalizar la apariencia de la interfaz gráfica a criterio del mismo usuario.
+# Descargando e instalando el software QGIS
+La instalación **depende del sistema operativo (SO)**, para este ejemplo realizaremos el procedimiento de instalación para en el SO de Windows.
 
-```{r, echo=FALSE,fig.align='center'}
+.pull-left[
+<center>Instalador autónomo QGIS</center>
+```{r,echo=FALSE, fig.align='center',out.width=450,out.height=400}
+knitr::include_graphics("img/insta01.png")
+```
+]
+
+.pull-right[
+<center>Instalador de red OSGeo4W</center>
+```{r, echo=FALSE,fig.align='center',out.width=750,out.height=450}
+knitr::include_graphics("img/insta02.png")
+```
+]
+
+---
+# Componentes de la Interfaz Gráfica de Usuario(**GUI**) de QGIS
+
+```{r, echo=FALSE,out.width=970,out.height=500}
+knitr::include_graphics("img/gui.png")
+```
+
+---
+# Explorando los componentes que presenta la barra de menú
+
+```{r, echo=FALSE,out.width=950,out.height=450,fig.align='center'}
+knitr::include_graphics("img/menu.gif")
+```
+
+---
+# Explorarando la caja de herramientas o toolbox de QGIS
+
+```{r, echo=FALSE,out.width=950,out.height=450,fig.align='center'}
+knitr::include_graphics("img/toolbox.gif")
+```
+
+---
+# ¿Qué son los plugins y para que sirve?
+
+.pull-left[
+Los plugins son herramientas o módulos adicionales que sirven para realizar tareas o geoprocesos que no están incluidos en el mismo programa principal de QGIS.
+Los lenguajes de programación que son empleados por los usuarios para crear plugins de QGIS incluyen a los lenguajes de programación como C++ y **Python**.
+
+```{r, echo=FALSE,out.width=400,out.height=200,fig.align='center'}
+knitr::include_graphics("img/pyton.png")
+```
+
+]
+
+.pull-right[
+
+```{r, echo=FALSE,out.width="400px",out.height="400",fig.align='center'}
+knitr::include_graphics("img/plugin.png")
+```
+
+]
+
+---
+# Cómo instalar un plugin?  
+
+```{r, echo=FALSE,out.width=950,out.height=450,fig.align='center'}
+knitr::include_graphics("img/installingplugin.gif")
+```
+
+---
+# Instalacion de plugin para personalizar **GUI**
+
+
+.pull-left[
+
+Load QSS es un plugin de QGIS que permite personalizar la apariencia de la interfaz gráfica a criterio del mismo usuario.
+<br>
+
+```{r, echo=FALSE,out.width="250px",out.height="150",fig.align='center'}
 knitr::include_graphics("img/personalizacion.png")
 ```
 ]
 
 .pull-right[
 
-```{r, echo=FALSE,fig.align='center'}
+```{r, echo=FALSE,out.width=700,out.height=250,fig.align='right'}
 knitr::include_graphics("img/personalizacion2.png")
 ```
-
 ]
+<br>
+<br>
+<br>
+En las versiones últimas de **QGIS** como la 3.4 y 3.8 presentan dos tipos de estilos adicionales (nigth y gray), estos estan ubicados en **configuración > generales > tema**  
 
+---
+# Propina 🗺️
+
+```{r, echo=FALSE,fig.align='center', out.height= 420}
+knitr::include_graphics("img/paper.png")
+```
+
+##### _Mas información_ [Paper aquí 👇](https://www.mdpi.com/2072-4292/8/5/413)
 ---
 # Instalación de plugin
 ```{r, echo=FALSE,out.height=480,fig.align='center'}
@@ -317,7 +399,7 @@ knitr::include_graphics("img/installingplugin.gif")
 knitr::include_graphics("img/MiprimerProject.png")
 ```
 
-##### _Insumos_ [clicl aquí](https://github.com/barja8/OsgeoLiveUNMSM/blob/master/Sesi%C3%B3n01/Insumos/MapaBase.tar)
+##### _Insumos_ [click aquí](https://github.com/barja8/OsgeoLiveUNMSM/raw/master/Sesi%C3%B3n01/Insumos/MapaBase.tar)
 ---
 background-color:cover
 class:center
