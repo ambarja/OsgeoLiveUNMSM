@@ -385,17 +385,12 @@ En las versiones últimas de **QGIS** como la 3.4 y 3.8 presentan dos tipos de e
 knitr::include_graphics("img/paper.png")
 ```
 
-##### _Mas información_ [Paper aquí 👇](https://www.mdpi.com/2072-4292/8/5/413)
----
-# Instalación de plugin
-```{r, echo=FALSE,out.height=480,fig.align='center'}
-knitr::include_graphics("img/installingplugin.gif")
-```
+##### _Mas información_ [Paper aquí](https://www.mdpi.com/2072-4292/8/5/413)
 
 ---
 # Mi primer proyecto en QGIS
 
-```{r, echo=FALSE, out.height=480}
+```{r, echo=FALSE,out.width=940, out.height=450, fig.align='center'}
 knitr::include_graphics("img/MiprimerProject.png")
 ```
 
