@@ -23,7 +23,7 @@ Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración
  > * Introducción a OSGEO - Fundación geoespacial de codigo abierto
  > * Introducción a OsgeoLive - instalación 
  > * QGIS - tendencias - características - propinas
- ### Parte práctica 
+ > ### Parte práctica 
  > * Instalación de QGIS
  > * Perzonalizando la Interfaz Gráfica de Usuario 
  > * Instalación de plugins indespensables para guardar proyectos
