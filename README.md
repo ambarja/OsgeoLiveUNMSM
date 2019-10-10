@@ -28,7 +28,7 @@ Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración
  > * Instalación de plugins indespensables para guardar proyectos
  > * Mi primer proyecto de QGIS
 ### Sesión 002:
-[Slides de la sesion 002]()
+[Slides de la sesion 002](https://barja8.github.io/OsgeoLiveUNMSM/Sesi%C3%B3n02/Slide.html#1)
  > * Geographycal data mining 
  > * Descargando datos vectoriales (Plugin para optener datos vectoriales)
  > * Descargando datos raster (Plugin para descargar datos raster)
