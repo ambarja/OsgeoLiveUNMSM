@@ -65,6 +65,16 @@ class: center, middle, inverse
 # Fuentes de información geográfica abierta 
 
 ---
+# Population Density Maps + Demographic
+Posee información espacial de la demografía, población infantil y adulta a una resolución de 30m
+
+```{r,echo=FALSE,fig.align='center',  out.height=430,out.width=950}
+knitr::include_graphics("img/facebook.png")
+```
+
+##### _Link de los datset_ [aquí](https://data.humdata.org/dataset/peru-high-resolution-population-density-maps-demographic-estimates)
+
+---
 # WorldPop
 Posee información espacial y temporal de la demografía a una resolución de 100m
 
@@ -191,7 +201,7 @@ knitr::include_graphics("img/OSM.png")
 ```
 
 ---
-# Descargar de sentinel 2
+# Descargar datos de sentinel 2
 
 ```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
 knitr::include_graphics("img/SentinelHub.png")
@@ -224,6 +234,27 @@ knitr::include_graphics("img/openEO.png")
 ```
 
 ---
+# Geprocesamiento de datos vectoriales
+  
+```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
+knitr::include_graphics("img/volcan_ubinas01.png")
+```
+
+---
+
+# Geoprocesamiento de datos raster
+
+```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
+knitr::include_graphics("img/landsat.png")
+```
+
+---
+# Visualización en 3D
+
+```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
+knitr::include_graphics("img/giphy.gif")
+``` 
+---
 background-color:cover
 class:center
 # GRACIAS!
@@ -232,7 +263,7 @@ class:center
 <br/>
 <br/>
 <div>
- <img src="img/git.png" width="34" height="34" style="float: none;" />
+ <img src="img/github3.png" width="34" height="34" style="float: none;" />
 <a href="https://github.com/barja8" >barja8.github</a>
  </div>
 
