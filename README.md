@@ -14,7 +14,7 @@ En los ultimos años el moviento del software libre y codigo abierto para el an�
 
 
 ## Objetivo:
-Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración automática de mapas temáticos con una herramienta libre y de alto impacto dentro deĺ moviento de software libre y de codigo abierto para el análisis geoespacial, frente a los comunes softwares privativos que existen en los sistemas de información geográfica.
+Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración automática de mapas temáticos con una herramienta libre y de alto impacto frente a los comunes softwares privativos que existen en los sistemas de información geográfica.
 
 ## Temario: 	
 ### Sesión 001:
