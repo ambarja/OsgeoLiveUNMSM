@@ -27,7 +27,15 @@ Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración
  > * Perzonalizando la Interfaz Gráfica de Usuario 
  > * Instalación de plugins indespensables para guardar proyectos
  > * Mi primer proyecto de QGIS
-
+### Sesión 002:
+[Slides de la sesion 002]()
+ > * Geographycal data mining 
+ > * Descargando datos vectoriales (Plugin para optener datos vectoriales)
+ > * Descargando datos raster (Plugin para descargar datos raster)
+ > * Geoprocesamiento en datos vectoriales 
+ > * Geoprocesamiento de datos raster
+ > * QGIS aplicado a la Evaluación de Riesgo de Desastre
+ > * Empaquetado de datos espaciales
  
  
  
