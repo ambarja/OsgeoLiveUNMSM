@@ -14,7 +14,7 @@ En los ultimos años el moviento del software libre y codigo abierto para el an�
 
 
 ## Objetivo:
-Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración automática de mapas temáticos con una herramienta libre y de alto impacto dentro deĺ moviento de software libre y de codigo abierto para el análisis geoespacial, frente a los comunes softwares privativos que existen en los sistemas de información geográfica.
+Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración automática de mapas temáticos con una herramienta libre y de alto impacto frente a los comunes softwares privativos que existen en los sistemas de información geográfica.
 
 ## Temario: 	
 ### Sesión 001:
@@ -28,7 +28,7 @@ Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración
  > * Instalación de plugins indespensables para guardar proyectos
  > * Mi primer proyecto de QGIS
 ### Sesión 002:
-[Slides de la sesion 002]()
+[Slides de la sesion 002](https://barja8.github.io/OsgeoLiveUNMSM/Sesi%C3%B3n02/Slide.html#1)
  > * Geographycal data mining 
  > * Descargando datos vectoriales (Plugin para optener datos vectoriales)
  > * Descargando datos raster (Plugin para descargar datos raster)
