@@ -1,7 +1,7 @@
 ---
 title: "Curso de cartografía automatizada sesión 001"
 subtitle: "<img src='img/antony.png'><br/>UNMSM <br/>Antony Barja"
-author: 'Geographer Freelance <br/><br/> <img src="img/git.png" width="34" height="34" style="float: none;" /><a href="https://github.com/barja8" > barja8.github</a>'
+author: 'Geographer Freelance <br/><br/> <img src="img/github3.png" width="34" height="34" style="float: none;" /><a href="https://github.com/barja8" > barja8.github</a>'
 date: "Lima, 2019-09-09"
 output:
   xaringan::moon_reader:
@@ -32,7 +32,7 @@ Es un sistema que integra tecnología informática, personas e información geog
 <br>
 **Desde un perpectiva técnica**:
 <br>
-`Es un conjunto de herramientas que nos permite manipular, getionar y trabajar información georreferenciada.`
+`Es un conjunto de herramientas que nos permite manipular, gestionar y trabajar información georreferenciada.`
 
 ##### _Mas información_ [aquí](http://volaya.github.io/libro-sig/)
 ]
@@ -118,7 +118,7 @@ knitr::include_graphics("img/raster.png")
 # Qué es un geoprocesamiento ? 
 --
 <br>
-La palabra geoprocesamiento involucra varios aspectos cómo:
+La palabra geoprocesamiento involucra varios aspectos como:
 --
 <br>
 * Automatizar tareas de administración de datos: **Cortar**, **reproyectar**
@@ -404,7 +404,7 @@ class:center
 <br/>
 <br/>
 <div>
- <img src="img/git.png" width="34" height="34" style="float: none;" />
+ <img src="img/github3.png" width="34" height="34" style="float: none;" />
 <a href="https://github.com/barja8" >barja8.github</a>
  </div>
 
