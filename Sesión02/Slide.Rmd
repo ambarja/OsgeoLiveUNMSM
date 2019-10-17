@@ -184,9 +184,8 @@ class: center, middle, inverse
 # Descargar modelos de elevación digital desde QGIS
 
 ```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
-knitr::include_graphics("img/srtmqgis.png")
+knitr::include_graphics("img/srtm.gif")
 ```
-
 ---
 # Descargar datos de poblacion desde QGIS
 
@@ -254,6 +253,20 @@ knitr::include_graphics("img/landsat.png")
 ```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
 knitr::include_graphics("img/giphy.gif")
 ``` 
+---
+# QGIS aplicado para la evaluación de riesgo de desastre
+
+```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
+knitr::include_graphics("img/EVAR.png")
+``` 
+
+---
+# Empaquetado de proyectos
+
+```{r,echo=FALSE,fig.align='center', out.height=500,out.width=970}
+knitr::include_graphics("img/empaquetar.png")
+``` 
+
 ---
 background-color:cover
 class:center
