@@ -18,7 +18,7 @@ Introducir a los nuevos usuarios al manejo de datos espaciales y la elaboración
 
 ## Temario: 	
 ### Sesión 001:
-[Slides de la sesion 001]()
+[Slides de la sesion 001](https://barja8.github.io/OsgeoLiveUNMSM/Sesión01/Slide.html)
  > * Aspectos generales de los Sistemas de Información Geográfica
  > * Introducción a OSGEO - Fundación geoespacial de codigo abierto
  > * Introducción a OsgeoLive - instalación 
